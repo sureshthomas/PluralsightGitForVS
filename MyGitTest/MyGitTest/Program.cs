@@ -12,6 +12,8 @@ namespace MyGitTest
         {
             //Soem changed 
             //
+            //Some test 
+            //Some for featrue 1.1
         }
     }
 }
